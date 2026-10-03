@@ -1,6 +1,6 @@
 ### Most Used Languages:
 <p align="center">
-  <img src="https://vani-stats.vercel.app/api?username=matteogristina&max_langs=5" alt="My Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=matteogristina&langs_count=5&theme=catppuccin_latte" alt="My Top Languages" />
 </p>
 
 ### Languages and Technologies:
